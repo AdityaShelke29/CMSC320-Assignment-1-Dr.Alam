@@ -22,3 +22,14 @@ historical data regarding when certain categories of companies are expected to d
 and when they are expected to do worse. Data science can be applied to this situation 
 in order to determine exactly and precisely when it is best to buy stocks for certain 
 companies in order to maximize short term or long term profit. 
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is essentially the process of combining two branches. When we merge a 
+branch A into master, we are one by one merging each of the changes from branch A 
+into master. Rebasing is a little different. We know that if we create a branch A from 
+master, while we work on branch A, it is possible that master has had new commits. 
+Essentially, rebasing allows us to incorporate those new commits that happened to master 
+after we branched off into branch A. Essentially, this changes effectively when in the 
+timeline branch A was branched off from master. 
