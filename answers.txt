@@ -11,3 +11,14 @@ merge changes from multiple individuals. Finally, git allows people to branch of
 the main codebase. This allows them to work on a new feature that may otherwise cause 
 the main codebase to stop functioning correctly, while still letting the bug - free 
 version of the codebase be the master branch.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: One field that data science can be applied to is economics and finance. 
+Every day, billions of stock for hundreds of thousands of companies is traded on the 
+global stock exchanges. There is a ton of data about buy orders, sell orders, and 
+price limits for orders that is generated every day, as well as chronological data and 
+historical data regarding when certain categories of companies are expected to do well 
+and when they are expected to do worse. Data science can be applied to this situation 
+in order to determine exactly and precisely when it is best to buy stocks for certain 
+companies in order to maximize short term or long term profit. 
