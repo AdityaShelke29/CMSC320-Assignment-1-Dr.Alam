@@ -1,0 +1,13 @@
+Q1: Why might be consider using git?
+
+Answer: One might consider using git for a variety of different reasons. 
+First of all, git is the premier tool for tracking changes in codebases. Companies and 
+individuals use git so that, if they need to, they can see what changes were done in 
+the past in order to solve bugs or get insights for problems they are facing for the 
+second time. Next, git is very useful for collaboration. It allows multiple individuals 
+to work on the codebase at once while minimizing conflicts where more than one person 
+have made conflicting changes to the same file. It provides, also, the ability to 
+merge changes from multiple individuals. Finally, git allows people to branch off from 
+the main codebase. This allows them to work on a new feature that may otherwise cause 
+the main codebase to stop functioning correctly, while still letting the bug - free 
+version of the codebase be the master branch.
