@@ -33,3 +33,11 @@ master, while we work on branch A, it is possible that master has had new commit
 Essentially, rebasing allows us to incorporate those new commits that happened to master 
 after we branched off into branch A. Essentially, this changes effectively when in the 
 timeline branch A was branched off from master. 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: In this course, I hope to improve my data science skills and become a better 
+communicator when it comes to data and graphs. I also want to really focus on technical 
+skills, such as Python, Pandas, Numpy, and data visualization software or libraries 
+like matplotlib or seaborn. I also want to become a better data scientist by learning 
+about sampling, hypothesis testing, and machine learning topics such as neural networks. 
